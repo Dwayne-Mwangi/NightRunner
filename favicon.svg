@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
-  <!-- Crescent Moon Element -->
-  <path d="M58 12C73.468 12 86 24.532 86 40C86 55.468 73.468 68 58 68C51.5 68 45.4 65.8 40.5 62C51.5 58.5 59.5 48.2 59.5 36C59.5 23.8 51.5 13.5 40.5 10C45.4 6.2 51.5 12 58 12Z" fill="#10b981"/>
-  <!-- Speed Vector Lines -->
-  <path d="M12 44H54L34 82H46L66 44H78V36H16L12 44Z" fill="#10b981"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#2fda8a" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sun-moon-icon lucide-sun-moon"><path d="M12 2v2"/><path d="M14.837 16.385a6 6 0 1 1-7.223-7.222c.624-.147.97.66.715 1.248a4 4 0 0 0 5.26 5.259c.589-.255 1.396.09 1.248.715"/><path d="M16 12a4 4 0 0 0-4-4"/><path d="m19 5-1.256 1.256"/><path d="M20 12h2"/></svg>
